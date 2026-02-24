@@ -1,0 +1,9 @@
+CHATGPT
+coba bantu berikan pemparan dari soal tersebut disini saya ingin membut sistemnya menggunakan bahasa java
+apa yang dimaskud dengan kode kelompok
+coba berikan contoh inputan kepada saya yang memiliki kemiripan berkas pada screenshoot yang pertama saya pakai
+pada kelompok tersebut juga disediakan untuk menambahkan nama siswa mau pun siswi gimana?
+pada inputan belum ada muncul nama
+coba gabungkan dalam satu code saja
+
+GEMINI

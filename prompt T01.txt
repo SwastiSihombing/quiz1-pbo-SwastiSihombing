@@ -1,0 +1,12 @@
+CHATGPT
+coba bantu arahkan membuat sistem yang dimaksud dari soal tersebut
+berikut gambar daftar menu dan kupos
+saya ingin membuat sistem menggunakan bahasa java
+harapan outputnya seperti ini coba sesuaikan dengan gamba rmaupun soal yang saya berikan sebelumnua
+cara memasukakn kompile ke dalam prom >src?/
+gimana cara mengkompile? javac driver1.java?
+kenapa bisa terjadi eror seperti ini
+masi tetap file not found
+
+
+GEMINI

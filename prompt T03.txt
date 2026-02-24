@@ -1,0 +1,22 @@
+CHATGPT
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del
+
+coba la  buat sistem yang dimana sistem ini digunakan untuk teknisi pada kegiatan laundry tepatnya di it del
+yang dimana sistem didalamnya itu ada
+pengimputan jenis baju/apa  yang dimasukkan (ciri-ciri)
+jumlah bajunya
+total jumlah keseluruhan yang dilaundry
+pembedaan yang  jika ada pakaian luntur
+pesan kepada laundry
+tanggal, nama, asrama
+serta ketika laundry sudah selesai ada forum khusus feedback baik protes kekurangan baju, baju rusak dll dan sejenisnya dan forum ini otomatis kebuka ketika mahasiswa mengacc bahwa laundrynya sudah kembali kepada mereke
+yang mengacc laundry sudah selesai hnya mahaisswa/i
+ coba bantu buat sistem dalam bahasa java
+ satukan semua dalam satu code jangan terpisah
+ masi terdapat eror dibagian ini
+ saya kan disuruh untuk membuat sistem saya juga perlu untuk mencoba sistem saya berikan untk mengingput
+ mengapa output dari sistem saya begini
+ saya ingin memasukkan angka dan huruf pada id pakai string kah?
+ 
+
+GEMINI
